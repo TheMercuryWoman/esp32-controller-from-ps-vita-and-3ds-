@@ -1,0 +1,6 @@
+/home/mercury/vita-controller/build/CMakeFiles/vita_controller.dir
+/home/mercury/vita-controller/build/CMakeFiles/vita_controller-velf.dir
+/home/mercury/vita-controller/build/CMakeFiles/vita_controller.self-self.dir
+/home/mercury/vita-controller/build/CMakeFiles/vita_controller.vpk-vpk.dir
+/home/mercury/vita-controller/build/CMakeFiles/edit_cache.dir
+/home/mercury/vita-controller/build/CMakeFiles/rebuild_cache.dir

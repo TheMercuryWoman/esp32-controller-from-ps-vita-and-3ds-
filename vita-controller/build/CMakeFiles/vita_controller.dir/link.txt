@@ -1,0 +1,1 @@
+/usr/local/vitasdk/bin/arm-vita-eabi-gcc  -Wl,-q -Wall -O2 -Wl,-z,nocopyreloc CMakeFiles/vita_controller.dir/src/main.c.obj -o vita_controller  -lvita2d -lScePgf_stub -lSceHttp_stub -lSceNet_stub -lSceNetCtl_stub -lSceCtrl_stub -lSceDisplay_stub -lSceGxm_stub -lSceSysmodule_stub -lSceAppMgr_stub -lSceCommonDialog_stub -lm -lc

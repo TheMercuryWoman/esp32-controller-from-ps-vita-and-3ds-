@@ -1,0 +1,7 @@
+# Hashes of file build rules.
+204d1a290298019ed7b5fcc4d1f6fa4e CMakeFiles/vita_controller-velf
+bbf3edcf2691354fa023ce63f243a314 CMakeFiles/vita_controller.self-self
+17493563d5d13ca0c1aab8da0a79cbf2 CMakeFiles/vita_controller.vpk-vpk
+9f7a2ac67d2b51e420e58371fed8e840 vita_controller.self.out
+4c7a7227ae2dbc58c220873963039d4e vita_controller.vpk.out
+eb2c9efc6e3c914dbd21f3110de160fe vita_controller.vpk_param.sfo

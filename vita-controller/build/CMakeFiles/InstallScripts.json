@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/mercury/vita-controller/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
